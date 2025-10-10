@@ -12,5 +12,6 @@
 
 Added headers of various sizes to the file!
 
-![Image of a Boeing 747-8](https://github.com/L00197082/skills-communicate-using-markdown/images/747-8i.jpg)
+![Image of a Boeing 747-8](https://github.com/L00197082/skills-communicate-using-markdown/blob/start-markdown/7478i.jpg)
+
 
