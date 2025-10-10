@@ -14,4 +14,10 @@ Added headers of various sizes to the file!
 
 ![Image of a Boeing 747-8](https://github.com/L00197082/skills-communicate-using-markdown/blob/start-markdown/7478i.jpg)
 
-
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+``` javascript
+var myVar = "Hello, world!";
+```
